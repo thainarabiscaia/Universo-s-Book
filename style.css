@@ -12,7 +12,7 @@
 }
 
 body {
-    background-color: var(--preto);
-    color: white;
+    background-color: var(--branco);
+    color: var(--preto);
     font-size: var(--fonte-principal);
 }
