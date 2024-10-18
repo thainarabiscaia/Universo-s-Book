@@ -29,3 +29,32 @@
     margin: 1em;
     padding: 1em;
 }
+
+.card__descricao {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botoes {
+    display: flex;
+}
+
+.descricao__titulo {
+    color: var(--laranja);
+    font-size: 10px;
+    font-weight: 700;
+    margin: 0.5em;
+}
+
+.descricao__subtitulo {
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em;
+}
