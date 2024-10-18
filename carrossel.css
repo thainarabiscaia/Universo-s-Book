@@ -58,3 +58,15 @@
     font-weight: 700;
     margin: 0.5em;
 }
+
+.botoes__item {
+    margin: 0.5em;
+}
+
+.botoes__ancora {
+    background-color: var(--laranja);
+    padding: 1em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none; /*retira o sublinhado para o hiperlink*/
+}
